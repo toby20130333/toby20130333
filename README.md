@@ -32,8 +32,8 @@ I’m 寒山-居士, A client development engineer since 2010, currently working
 
 <p align="center">
 <a href="https://github.com/toby20130333">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=toby20130333&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=toby20130333&layout=compact&langs_count=8&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=toby20130333&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=toby20130333&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
